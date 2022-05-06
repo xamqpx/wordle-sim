@@ -1,5 +1,4 @@
-Simulates Wordle in Python.
-(All original concepts and designs for Wordle belong to its creator, Josh Wardle.)
+All original concepts and designs for Wordle belong to its creator, Josh Wardle.
 
 FEATURES:
 - color blind mode
